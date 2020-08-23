@@ -5,6 +5,8 @@ This project is in active development by BITSRobocon.
 **[Amazon Prime Air](https://www.amazon.com/Amazon-Prime-Air/b?ie=UTF8&node=8037720011) -**
 These days we are pretty habituated of home- delivery system through e-commerce platform, however there is a big dependency on delivery boys and vehicles for timely delivery of the items. We could potentially use Drones for last mile delivery of items. While current prevalent addressing mechanism such as lat/long and post code are good enough for humans, these won’t work for drone delivery as all houses in a multi-storey building will have same lat/long or post-code. Design a solution which can help drones to identify each address / flat as a separate unit and deliver the item accordingly.
 
+Some of the exisiting autonomous UAV frameworks available is/are: [GAAS](https://gaas.gitbook.io/guide/software-realization-build-your-own-autonomous-drone/an-overview-of-gaas)
+
 
 ### **What we Aim for :**
 
